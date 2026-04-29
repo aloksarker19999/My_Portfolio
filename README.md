@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
+<h1 align="center">Hi 👋, Alok Sarkar</h1>
 <h3 align="center">A passionate full-stack developer from Dhaka, Bangladesh</h3>
 
 - 🔭 I’m currently working on [Skytrip](http://skytrip.com/)
