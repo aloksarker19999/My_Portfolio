@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **rakeshroyshuvo@gmail.com**
+- 📫 How to reach me **aloksarker360@gmail.com**
 
 - 📄 Know about my experiences [https://rakeshroy1995.github.io/my-resume/](https://rakeshroy1995.github.io/my-resume/)
 
